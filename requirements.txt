@@ -1,0 +1,10 @@
+# Core data processing and machine learning
+numpy
+pandas
+scikit-learn
+xgboost
+torch
+
+# Result tables and figures
+matplotlib
+tabulate
